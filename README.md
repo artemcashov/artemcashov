@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ку 👋
+Я Fronгей разработчик, а ещё ботов пишу иногда
 
-<!--
-**artemcashov/artemcashov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+- [VK](https://vk.com/artemcashov)
+- [TELEGRAM](https://t.me/artemcashov)
+- [DISCORD](https://discord.com/invite/AmtY2DHyWE)
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Мои навыки:
+- JavaScript
+- HTML/CSS
+- PHP
+- PYTHON
