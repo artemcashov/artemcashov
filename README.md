@@ -11,4 +11,3 @@
 - JavaScript
 - HTML/CSS
 - PHP
-- PYTHON
